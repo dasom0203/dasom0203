@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center"> 
-    <h2 style="border-bottom: none";  solid #d8dee4; color: #282d33;"> 🍀소통하는 개발자 신다솜입니다🍀 </h2>
+    <h2 style="border-bottom: none; color: #282d33;"> 🍀소통하는 개발자 신다솜입니다🍀 </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  늘 도전하는 개발자가 되겠습니다💪🏻😇  </div> 
     <br>
 </div>
